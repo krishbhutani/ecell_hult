@@ -3,11 +3,11 @@ export default function HultPrizeAtNITHamirpur() {
     <div className="flex flex-col h-screen">
       <div className="flex justify-between items-center bg-pink-400 text-white font-semibold text-lg h-80 px-5 py-10">
         <div className="flex items-center">
-           <span className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/Copy%20of%20Profile%20Pic.pptx%201.png?raw=true" alt="NIT-Logo" /></span>
+           <span className='mx-5'><Image className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/Copy%20of%20Profile%20Pic.pptx%201.png?raw=true" alt="NIT-Logo" /></span>
           OnCampus <br> </br>Program
-          <span className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png?raw=true" alt="NIT-Logo" /></span>
+          <span className='mx-5'><Image className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png?raw=true" alt="NIT-Logo" /></span>
         </div>
-        <div className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png?raw=true"/></div>
+        <div className='mx-5'><Image className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png?raw=true"/></div>
       </div>
 
       <div className="flex flex-col flex-1 justify-between h-auto">
