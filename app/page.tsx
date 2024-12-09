@@ -4,7 +4,7 @@ export default function HultPrizeAtNITHamirpur() {
       <div className="flex justify-between items-center bg-pink-400 text-white font-semibold text-lg h-60 px-5">
         <div className="flex items-center">
           OnCampus Program
-          <span className='mx-5'><img src="app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png" alt="NIT-Logo" /></span>
+          <span className='mx-5'><img src="https://imgs.search.brave.com/IxH6pcYFoBWdY3a_L9A9puv1nTAw9ePjZA7CyAGATXY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvbi1p/LXQtaGFtaXJwdXIt/bG9nby1rOWk5cnNo/dHZ3ejJkdm01LnBu/Zw" alt="NIT-Logo" /></span>
         </div>
         <div>Ecell-logo</div>
       </div>
