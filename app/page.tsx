@@ -38,7 +38,7 @@ export default function HultPrizeAtNITHamirpur() {
             <p className="text-gray-200">Double-check your information before submitting the form.</p>
             <p className="mb-5">Ensure that you complete the registration process by the deadline to avoid missing out on this opportunity.</p>
             <div className="flex justify-center">
-                            <a href="https://www.hultprize.org/startup-pre-registration-is-now-open/"><button className="bg-pink-500 text-white font-bold text-lg h-14 rounded-lg px-6 py-2">Register Now</button></a>
+                            <a href="https://www.google.co.in/"><button className="bg-pink-500 text-white font-bold text-lg h-14 rounded-lg px-6 py-2">Register Now</button></a>
 
             </div>
           </div>
