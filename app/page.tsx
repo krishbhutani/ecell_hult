@@ -3,10 +3,11 @@ export default function HultPrizeAtNITHamirpur() {
     <div className="flex flex-col h-screen">
       <div className="flex justify-between items-center bg-pink-400 text-white font-semibold text-lg h-80 px-5">
         <div className="flex items-center">
+           <span className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/Copy%20of%20Profile%20Pic.pptx%201.png?raw=true" alt="NIT-Logo" /></span>
           OnCampus Program
-          <span className='mx-5'><img className="h-14"  src="https://imgs.search.brave.com/IxH6pcYFoBWdY3a_L9A9puv1nTAw9ePjZA7CyAGATXY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvbi1p/LXQtaGFtaXJwdXIt/bG9nby1rOWk5cnNo/dHZ3ejJkdm01LnBu/Zw" alt="NIT-Logo" /></span>
+          <span className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png?raw=true" alt="NIT-Logo" /></span>
         </div>
-        <div className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/cf7cfb6cae40c4d207c0d4b87b8695932eb36155/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png?raw=true"/></div>
+        <div className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png?raw=true"/></div>
       </div>
 
       <div className="flex flex-col flex-1 justify-between h-auto">
