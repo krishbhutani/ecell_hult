@@ -1,10 +1,10 @@
 export default function HultPrizeAtNITHamirpur() {
   return (
     <div className="flex flex-col h-screen">
-      <div className="flex justify-between items-center bg-pink-400 text-white font-semibold text-lg h-80 px-5">
+      <div className="flex justify-between items-center bg-pink-400 text-white font-semibold text-lg h-80 px-5 py-10">
         <div className="flex items-center">
            <span className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/Copy%20of%20Profile%20Pic.pptx%201.png?raw=true" alt="NIT-Logo" /></span>
-          OnCampus Program
+          OnCampus <br> </br>Program
           <span className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png?raw=true" alt="NIT-Logo" /></span>
         </div>
         <div className='mx-5'><img className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png?raw=true"/></div>
@@ -38,7 +38,7 @@ export default function HultPrizeAtNITHamirpur() {
             </p>
             <p className="text-gray-200">Double-check your information before submitting the form.</p>
             <p className="mb-5">Ensure that you complete the registration process by the deadline to avoid missing out on this opportunity.</p>
-            <div className="flex justify-center">
+            <div className="flex justify-start">
                             <a href="https://www.hultprize.org/startup-pre-registration-is-now-open/"><button className="bg-pink-500 text-white font-bold text-lg h-14 rounded-lg px-6 py-2">Register Now</button></a>
 
             </div>
