@@ -1,101 +1,68 @@
-import Image from "next/image";
-
-export default function Home() {
+export default function HultPrizeAtNITHamirpur() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+    <div className="flex flex-col h-screen">
+      <div className="flex justify-between items-center bg-pink-400 text-white font-semibold text-lg h-20 px-5">
+        <div className="flex items-center">
+          OnCampus Program
+          <span className='mx-5'>Nit-logo</span>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        <div>Ecell-logo</div>
+      </div>
+
+      <div className="flex flex-col flex-1 justify-between h-auto">
+        <div className="flex-1 bg-black p-5 md:p-10 flex flex-col md:flex-row justify-between">
+          <div className="flex-1 mb-5 md:mb-0">
+            <h1 className="text-3xl font-bold mb-5">
+              Bring Your Ideas to Life with the
+              <br />
+              <span className='text-5xl font-bold text-yellow-300'>
+                Hult Prize at NIT Hamirpur!
+              </span>
+            </h1>
+            <p className="mb-10 text-lg text-gray-200">Your journey to creating impactful solutions starts here.</p>
+            <p className="mb-5 text-lg font-bold text-white">While registering keep this details in mind:</p>
+            <p className='text-gray-200'>Select the correct details:</p>
+            <ul className="list-disc pl-5 mb-1 text-gray-200 mx-3">
+              <li>Country: India</li>
+              <li>City: Hamirpur</li>
+              <li>College: NIT Hamirpur</li>
+            </ul>
+            <p>
+              <span className="flex items-center text-yellow-200 mb-2 ">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="size-6 mr-2">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                </svg>
+                Failure to select these options will result in your entry being disqualified.
+              </span>
+            </p>
+            <p className="text-gray-200">Double-check your information before submitting the form.</p>
+            <p className="mb-5">Ensure that you complete the registration process by the deadline to avoid missing out on this opportunity.</p>
+            <div className="flex justify-center">
+              <button className="bg-pink-500 text-white font-bold text-lg h-14 rounded-lg px-6 py-2">Register Now</button>
+            </div>
+          </div>
+
+          <div className="flex flex-col justify-center items-center mt-4">
+            <p className="md:text-3xl md:font-bold text-white text-2xl font-semibold text-center">Mark the Date</p>
+            <p className="text-4xl md:text-5xl font-bold text-pink-500 text-center">19 January 2025</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="bg-yellow-300 text-black p-5 md:p-8 flex flex-col md:flex-row justify-between">
+        <div className="my-6 mx-3 flex justify-center items-center md:block">
+          <p className="text-xl font-bold mx-1">Changing the world through</p>
+          <p className="text-4xl font-extrabold text-pink-500">social enterprise</p>
+        </div>
+        <div className="text-center md:text-right mt-5 md:mt-0">
+          <p className="font-bold">Contact Us</p>
+          <p>Mail us: ecell@nith.ac.in</p>
+          <p>Call us:</p>
+          <p>Kartik: +91 8275451335</p>
+          <p>Gyan: +91 7992217544</p>
+          <p>Vaishnav: +91 9545778555</p>
+        </div>
+      </div>
     </div>
   );
 }
