@@ -25,7 +25,7 @@ export default function HultPrizeAtNITHamirpur() {
           <img 
             src="https://raw.githubusercontent.com/krishbhutani/ecell_hult/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png" 
             alt="E-Cell Logo" 
-            className="h-16 md:h-20 lg:h-24" // Responsive height
+            className="h-16 md:h-20 lg:h-30" // Responsive height
           />
         </div>
       </header>
