@@ -7,7 +7,7 @@ export default function HultPrizeAtNITHamirpur() {
             <img 
               src="https://raw.githubusercontent.com/krishbhutani/ecell_hult/master/app/Copy%20of%20Profile%20Pic.pptx%201.png" 
               alt="NIT Logo" 
-              className="h-15 w-25 md:h-20 lg:h-24" // Responsive height
+              className="h-15 w-20 md:h-20 lg:h-24" // Responsive height
             />
           </span>
           <p className="text-sm font-semibold md:text-lg">
@@ -17,7 +17,7 @@ export default function HultPrizeAtNITHamirpur() {
             <img 
               src="https://raw.githubusercontent.com/krishbhutani/ecell_hult/master/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png" 
               alt="NIT Hamirpur Logo" 
-              className="h-14 w-30 md:h-30 lg:h-24" // Responsive height
+              className="h-14 w-30 md:h-30 lg:h-34" // Responsive height
             />
           </span>
         </div>
