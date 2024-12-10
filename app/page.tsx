@@ -1,3 +1,4 @@
+import Image from 'next/image';
 export default function HultPrizeAtNITHamirpur() {
   return (
     <div className="flex flex-col h-screen">
