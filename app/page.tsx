@@ -8,7 +8,7 @@ export default function HultPrizeAtNITHamirpur() {
           OnCampus <br> </br>Program
           <span className='mx-5'><Image className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/n-i-t-hamirpur-logo-k9i9rshtvwz2dvm5.png?raw=true" alt="NIT-Logo" /></span>
         </div>
-        <div className='mx-5'><Image className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png?raw=true"/></div>
+        <div className='mx-5'><Image className="h-14"  src="https://github.com/krishbhutani/ecell_hult/blob/master/app/E-Cell%20Logo%20-%20Release_Logo%20-%20White%20with%20Tagline.png?raw=true" alt="NIT-Logo"/></div>
       </div>
 
       <div className="flex flex-col flex-1 justify-between h-auto">
