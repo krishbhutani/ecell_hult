@@ -1,13 +1,13 @@
 export default function HultPrizeAtNITHamirpur() {
   return (
     <div className="flex flex-col h-screen">
-      <header className="flex justify-between items-center bg-pink-500 text-white font-semibold text-lg h-60 px-5 py-10">
+      <header className="flex justify-between items-center bg-pink-500 text-white font-semibold text-lg h-60 px-5 py-8">
         <div className="flex items-center">
           <span className='mr-5 md:mx-5'>
             <img 
               src="https://raw.githubusercontent.com/krishbhutani/ecell_hult/master/app/Copy%20of%20Profile%20Pic.pptx%201.png" 
               alt="NIT Logo" 
-              className="h-15 w-20 md:h-20 lg:h-24" // Responsive height
+              className="h-15 w-25 md:h-20 lg:h-24" // Responsive height
             />
           </span>
           <p className="text-sm font-semibold md:text-lg">
@@ -69,6 +69,7 @@ export default function HultPrizeAtNITHamirpur() {
                 </button>
               </a>
             </div>
+            <br/>
             <p className="font-semibold">Registrations open till -<span className="text-yellow-300">17 January 2025</span>
            </p>
           </div>
