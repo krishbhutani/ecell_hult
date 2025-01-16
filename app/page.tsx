@@ -70,13 +70,13 @@ export default function HultPrizeAtNITHamirpur() {
               </a>
             </div>
             <br/>
-            <p className="font-semibold">Registrations open till -<span className="text-yellow-300">17 January 2025</span>
+            <p className="font-semibold">Registrations open till -<span className="text-yellow-300">23 January 2025</span>
            </p>
           </div>
 
           <div className="flex flex-col justify-center items-center mt-4">
             <p className="md:text-3xl md:font-bold text-white text-2xl font-semibold text-center">Mark the Date</p>
-            <p className="text-4xl md:text-5xl font-bold text-pink-500 text-center">19 January 2025</p>
+            <p className="text-4xl md:text-5xl font-bold text-pink-500 text-center">25 January 2025</p>
           </div>
         </section>
       </main>
